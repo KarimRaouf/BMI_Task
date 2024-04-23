@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "872842961374",
+    "project_id": "bmitask-53b50",
+    "storage_bucket": "bmitask-53b50.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872842961374:android:62b7b55cf54d33055e3d4f",
+        "android_client_info": {
+          "package_name": "com.example.bmi_task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCf-JUZBqNxtH-Ed8dIFefmK1IIgqMxgzQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
